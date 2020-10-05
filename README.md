@@ -41,3 +41,25 @@ testGroup:
                 bins:
                   - /home/totyz/repos/tt/
 
+
+## deploy
+
+sdf
+dafb
+adfh
+srtjjusdgjxzs
+hgsfgrh
+sfgh
+sfg
+h
+sdfhgsfgh\
+
+
+## another
+ 
+ adsa
+ dad
+ d
+ asd
+ asd
+ as
