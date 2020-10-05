@@ -9,6 +9,16 @@ something more
 
 ## introduction
 
+nRFCommandLineTools10100Linuxamd64.tar
+asda
+dads
+as
+da
+d
+
+asdasdadsadad
+
+
 ## more
 
 testGroup:
@@ -31,4 +41,3 @@ testGroup:
                 bins:
                   - /home/totyz/repos/tt/
 
-                  
